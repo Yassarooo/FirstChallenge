@@ -82,8 +82,8 @@ function App() {
                 </Row>
               </Container>
             </Col>
-            <Col lg="3" md="3" className="d-flex rightCol mb-3 pb-0">
-              <Container className="d-flex mt-3 mb-0 pb-0">
+            <Col lg="3" md="3" className="d-flex rightCol mt-sm-5 mb-3 pb-0">
+              <Container className="d-flex mt-sm-5 mt-3 mb-0 pb-0">
                 <Stack>
                   <p
                     style={{
